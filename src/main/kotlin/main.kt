@@ -1,3 +1,6 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+
+    for (numero in Ejercicio1(11).lista){
+        println(numero)
+    }
 }
